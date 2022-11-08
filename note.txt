@@ -1,0 +1,3 @@
+created react form and pushing data to firebase db, 
+
+and showing same data in list view , by retriving data from db.
